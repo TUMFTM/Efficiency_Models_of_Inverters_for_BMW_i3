@@ -3,7 +3,7 @@
 This project aims to model the efficiency and the reliability of inverters.
 In terms of efficiency, the inverter in BMW i3, using Infineon IGBT FS800R07A2E3 is modelled. A SiC MOSFET inverter and Cascaded H-Bridges (CHB) are also modelled, which have exactly the same output capability compared to the IGBT inverter. For more details please refer to the paper: 
 
-F. Chang, O. Ilina, L. Voss, and M. Lienkamp, Improving the Overall Efficiency of Automotive Inverters Using a Multilevel Converter Composed of Low Voltage Si MOSFETs, IEEE Trans. Power Electron., vol. 34, no. 4, pp. 1¨C17, 2018.
+F. Chang, O. Ilina, L. Voss, and M. Lienkamp, Improving the Overall Efficiency of Automotive Inverters Using a Multilevel Converter Composed of Low Voltage Si MOSFETs, IEEE Trans. Power Electron., vol. 34, no. 4, 2018.
 
 However, these models are specific to the switches and inverters. The author cannot guaranty the validy and the accuracy of the model still hold, when trying to extra-polate or reshape the map.
 
