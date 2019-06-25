@@ -113,4 +113,18 @@ Switching_loss_array(k) = Switching_loss;
 Inverter_loss_array(k) = S;
 clc;
 
+if strcmp(model,'Motor_Revised_MOSFET_CHB.slx')
+    Inverter_Name = 'CHB';
+elseif strcmp(model,'Motor_Revised_SiC.slx')
+    Inverter_Name = 'SiC MOSFET';
+else
+    Inverter_Name = 'IGBT';
+end
 
+clc;
+disp(strcat(Inverter_Name,' is simulated'))
+disp('please find consumption of BEV in different driving cycles in EV_array')
+disp('efficiency of inverter in different driving cycles in Efficiency_array')
+disp('conduction loss of inverter in different driving cycles in Conduction_loss_array')
+disp('switching loss of inverter in different driving cycles in Switching_loss_array')
+disp('total loss of inverter in different driving cycles in Inverter_loss_array')
