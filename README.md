@@ -17,7 +17,7 @@ Nonetheless, in Simulink, no specific package is used. Hence, a basic license is
 ### How to use
 Here explanations regarding how to use the tool
 
-### Efficiency
+### Obtain Efficiency
 
 In order to evaluate the efficiency of the three inverters in BMW i3 in different driving cycles, the user is recommended to follow the steps below:
 
