@@ -57,3 +57,4 @@ This project is licensed under the LGPL License - see the LICENSE.md file for de
  
 ## Sources
 Improving the Overall Efficiency of Automotive Inverters Using a Multilevel Converter Composed of Low Voltage Si MOSFETs, doi: 10.1109/TPEL.2018.2854756
+Please find the paper * [here](https://www.researchgate.net/publication/326311088_Improving_the_Overall_Efficiency_of_Automotive_Inverters_Using_a_Multilevel_Converter_Composed_of_Low_Voltage_Si_MOSFETs)
