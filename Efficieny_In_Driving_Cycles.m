@@ -3,7 +3,7 @@ clc;
 addpath('Driving_Cycles')
 addpath('Simulink_Models')
 
-vehicle_weight  = 1443.331;
+vehicle_weight  = 1443.331;         %obtained from the test configuration of Argonne National Lab
 EV_array = zeros(8,1);              %consumption of BEV in different driving cycles
 Efficiency_array = zeros(8,1);      %efficiency of inverter in different driving cycles
 Conduction_loss_array = zeros(8,1); %conduction loss of inverter in different driving cycles
